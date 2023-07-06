@@ -1,0 +1,16 @@
+{
+  "name": "discordonlinebot",
+  "version": "1.0.0",
+  "description": "Become Your Bot Online For Ever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mohammad Mahdi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.1.1"
+  }
+}
